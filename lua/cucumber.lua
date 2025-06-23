@@ -1,5 +1,4 @@
 local M = {}
-print("Hello my cucumber plugin")
 
 -- Function to build the test command
 M.buildRunNeasterScenarioCmd = function()
